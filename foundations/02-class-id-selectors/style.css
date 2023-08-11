@@ -1,0 +1,20 @@
+.odd_ps {
+    background-color: rgb(228, 156, 168);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.spicyfont {
+    font-size:24px;
+}
+
+#div1 {
+    color: rgb(14, 106, 212);
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: rgb(142, 233, 210);
+    font-size: 24px;
+    font-weight: bold;
+}
+
